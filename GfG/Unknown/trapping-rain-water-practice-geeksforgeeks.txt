@@ -1,0 +1,9 @@
+/*
+ * Problem: Trapping Rain Water | Practice | GeeksforGeeks
+ * Difficulty: Unknown
+ * Language: Java (21)
+ * Date: 2026-09-29
+ * URL: https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1
+ */
+
+ Commenting as TRILOCHAN SAHOOComment AnonymouslySubmit
