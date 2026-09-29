@@ -1,9 +1,0 @@
-/*
- * Problem: Java Exception Handling | Practice | GeeksforGeeks
- * Difficulty: Unknown
- * Language: Java (21)
- * Date: 2026-09-29
- * URL: https://www.geeksforgeeks.org/problems/java-exception-handling-1606978567/1
- */
-
- Commenting as TRILOCHAN SAHOOComment AnonymouslySubmit
